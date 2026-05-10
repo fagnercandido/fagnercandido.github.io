@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "mdfind in MacOs"
+description: Find files in MacOs
+date:   2026-05-11 00:00:00 +0000
+categories: mac commands
+---
+
+One fast trick: to find any gile in your filesystem in MacOs:
+
+```
+mdfind "myString"
+```
+
+and that's all folks!
+
+If you have any doubts, problems or suggestions, just leave a message.
